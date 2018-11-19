@@ -4,4 +4,4 @@
 
 3 iniciar levantamendo dos casos de uso... (19/11/2018)
 
-4
+4  3 classes chave (fisioterapeuta-paciente-sessão) 
