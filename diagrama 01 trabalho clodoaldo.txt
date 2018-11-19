@@ -1,0 +1,15 @@
+clinica publica
+
+1 o usuario procurar um médico...
+
+2 o médico realizar uma avaliação... e checar as necessidades do usuario (paciente) de realizar um tratamento fisioterapico. (basicamente encaminhar)
+
+3 se comprovado, ele encaminhar o usuario ou paciente para uma clinica fisioterapica.
+
+4 depois disso o usuario paciente ira verificar a disponibilidade de vagas para aquele tratamento.
+
+5 caso haja vagas ele já ira ser encaminhado para a avaliação pelo fisioterapeuta, e irá determinar o tipo de tratamento adequado, de acordo com a necessidade do paciente.
+
+6 caso não haja mais vagas disponiveis, ele ira para uma lista de espera, podendo demorar.
+
+7 
