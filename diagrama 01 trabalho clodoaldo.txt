@@ -8,7 +8,7 @@ clinica publica
 
 4 depois disso o usuario paciente ira verificar a disponibilidade de vagas para aquele tratamento.
 
-5 caso haja vagas ele já ira ser encaminhado para a avaliação com o fisioterapeuta, e irá determinar o tipo de tratamento adequado, de acordo com a necessidade do paciente.
+5 caso haja vagas ele já ira ser encaminhado para a avaliação com o fisioterapeuta,  irá determinar o  tipo de tratamento adequado, de acordo com a necessidade do paciente.
 
 6 caso não haja mais vagas disponiveis, ele ira para uma lista de espera, podendo demorar.
 
